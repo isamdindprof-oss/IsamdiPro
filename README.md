@@ -103,9 +103,9 @@
       </h1>
       <p id="editable-subheading" class="text-xs text-amber-400/90 font-medium tracking-wider uppercase mb-3 editable-field" data-key="subheading" contenteditable="true">Индивидуальное проектирование частных домов,&nbsp; коммерческих объектов, ресторанов, магазинов, офисов и прилегающей территории.</p>
 
-      <p id="editable-desc" class="text-slate-300 text-xs leading-relaxed max-w-xs mx-auto mb-4 editable-field" data-key="desc" contenteditable="true">Проекты одноэтажных и двухэтажных домов, продуманный дизайн дворов, навесов, заборов и фасадов.</p>
+      <p id="editable-desc" class="text-slate-300 text-xs leading-relaxed max-w-xs mx-auto mb-4 editable-field" data-key="desc" contenteditable="true"></p>
 
-      <p id="editable-desc" class="text-slate-300 text-xs leading-relaxed max-w-xs mx-auto mb-4 editable-field" data-key="desc" contenteditable="true">Проекты одноэтажных и двухэтажных домов, продуманный дизайн дворов, навесов, заборов и фасадов.</p>
+      <p id="editable-desc" class="text-slate-300 text-xs leading-relaxed max-w-xs mx-auto mb-4 editable-field" data-key="desc" contenteditable="true"></p>
 
       <!-- Quick Stats / Badges -->
       <div class="grid grid-cols-3 gap-2 pt-3 border-t border-slate-700/50 text-center">
